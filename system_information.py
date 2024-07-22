@@ -38,6 +38,8 @@ st.code("\n".join(topn))
 
 "## IP addresses"
 
+"From [this discussion](https://discuss.streamlit.io/t/ip-addresses-for-streamlit-community-cloud/75304/)"
+
 st.code("""
     35.230.127.150
     35.203.151.101

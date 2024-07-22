@@ -38,8 +38,7 @@ st.code("\n".join(topn))
 
 "## IP addresses"
 
-st.code(
-    """
+st.code("""
     35.230.127.150
     35.203.151.101
     34.19.100.134
